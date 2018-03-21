@@ -1,0 +1,16 @@
+{
+    "appName":"App Template",
+	"config":"Configuration",
+	"screenLib":"Screen Library",
+	"bindSens":"Bind Sensors",
+    "CapSensor":"Sensor Capacity",
+    "VSensor":"Sensor Voltage",
+    "nCell":"Number of Cells",
+	"capInc":"count Capacity",
+	"full":"F",
+	"empty":"E",
+	"capa":"Capacity",
+	"cont":"Continue ?",
+	"lTDat":"load template datafile",
+	"ovConf":"Attention!!! overwrite sensor configuration"
+}
